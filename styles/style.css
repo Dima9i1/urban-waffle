@@ -1,0 +1,36 @@
+*,body{
+	margin: 0;
+
+
+}
+
+ body {
+ 	margin: 0 auto;
+ 	width: 600px;
+ 	background-color: ##C0B8F4;
+ 	padding: 0 20px 20px 20px;
+ 	border: 5px solid black;
+
+ }
+ 
+ h1{
+ 	margin: 0;
+ 	padding: 20px 0;
+ 	color: #0E113F;
+
+ }
+
+ p, li{
+ 	font-family: placeholder: Monsserrat;
+ 	font-size: 16px;
+ 	color: #0E113F;
+ 	line-height: 2;
+ 	letter-spacing: 1px;
+ 	margin: 10px;
+ }
+ img{
+ 	display: block;
+ 	margin: 0 auto;
+ 	width: 60#FFFFFFFF0px;
+ 	height: 500px;
+ }
